@@ -1,0 +1,114 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Raleway", sans-serif;
+
+}
+
+#pic {
+	height: 300px;
+	width: 200 px;
+	border-radius: 150px;
+	margin-top: 50px;
+}
+
+#logo {
+	height: 50px;
+	width: 50px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+nav{
+background-color: black;
+}
+
+.gwapo-image {
+  background: url(images/lorens.jpg) no-repeat center; 
+  background-size: cover;
+  min-height: 400px;
+max-height: 800px;
+  position: relative;
+  padding-bottom: 50px;
+  background-repeat: no-repeat;
+
+}
+
+.retz-image {
+  background: url(images/rence.jpg) no-repeat center; 
+  background-size: cover;
+  max-height: 1700px;
+  min-height: 750px;
+  padding-top: 50px;
+  position:relative;
+  padding-bottom: 50px;
+  background-repeat: no-repeat;
+}
+
+.hey-color{
+	color: 	#3C0949;
+}
+
+.li-color{
+	background-color: #6eb5aa;
+}
+
+.li-text{
+	color: #28282B;
+}
+
+.li2-text{
+	color: #334D47;
+}
+
+.bg-image {
+  background: url(images/bg.jpg) no-repeat center; 
+  background-size: cover;
+   max-height: 1700px;
+  min-height: 600px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+
+}
+
+.meh-color{
+	color: #5e1a41	;
+}
+
+.in-color{
+	background-color: #aa7eee;
+}
+
+.in-text{
+	color: #2a2263;
+}
+
+.in2-text{
+	color: #5e1a41;
+}
+
+.pare-image {
+  background-size: cover;
+  min-height: 800px;
+  max-height: 1500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.mes-color {
+	color: #7fb591;
+}
+
+.sume-color{
+	background-color: #bacd84;
+}
+
+.btn{
+	background-color: #303322;
+}
+
